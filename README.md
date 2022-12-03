@@ -9,4 +9,4 @@ Image directory for ERC20 tokens created in Nilu network. Create your tokens wit
   2. Upload your image to `images` folder and commit changes.
   3. Press `New pull request` and submit.
 ### Usage:
-  `https://raw.githubusercontent.com/NiluPlatform/ERC20-Tokens/master/images/<contract_address>.png`
+  `https:/https://github.com/Flexgod69iner/NIP/blob/master/NILU%20JR%20(2).png`
